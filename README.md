@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🌟 About Me
-- **💻 Profession/Role:** Aspiring Data Engineer 
+- **💻 Profession/Role:** Data Analyst  
 - **📍 Location:** France
 - **🎯 Goals:** 
   - Develop my data science skills.
