@@ -1,50 +1,53 @@
-# Hi, I’m Paul-Olulana 👋
-Welcome to my GitHub profile! Here's a little about me:
+# 👋 Hi there, I'm Paul-Olulana
+
+Welcome to my GitHub profile — a space where I explore data, share insights, and build cool projects!
 
 ---
 
-## 🌟 About Me
-- **💻 Profession/Role:** Data Analyst  
-- **📍 Location:** France
-- **🎯 Goals:** 
-  - Develop my data science skills.
-  - Contribute to open-source projects.
-  - Grow as a developer and lifelong learner.
+## 💼 About Me
+- **🎓 Role:** Data Analyst | Aspiring Data Scientist  
+- **📍 Based in:** France  
+- **🚀 Currently focused on:**
+  - Strengthening my data science and analytics portfolio
+  - Contributing to open-source projects
+  - Growing as a lifelong learner in tech
 
 ---
 
-### I'm interested in:
-- Technology and programming
-- Open-source contributions
-- Data science and machine learning
-
-
----
-
-### I'm currently learning:
-- Cloud computing
-- Advanced machine learning algorithms
+## 🔍 Interests
+- Data analytics & machine learning  
+- Cloud computing & AI  
+- Open-source collaboration  
+- Building storytelling dashboards & visual insights
 
 ---
 
-### I'm looking to collaborate on:
-- Open-source projects
-- Machine learning applications
-- Data science projects
+## 📚 Currently Learning
+- 🧠 Advanced machine learning techniques  
+- ☁️ Cloud computing tools for data science (Azure & AWS)  
+- 📊 Power BI dashboard design and optimization  
 
 ---
 
-### How to reach me:
-- 📧 Email: [paulolulana00@gmail.com](mailto:paulolulana00@gmail.com)
-- 🌐 Website: []
+## 🤝 Open to Collaborate On
+- ML & data-driven projects  
+- Data visualization or dashboard design  
+- Open-source analytics initiatives  
 
 ---
 
-## 🎉 Fun Fact
-- **Hobbies/Passions:** I enjoy traveling, creating contents, playing video games, in my free time.
-- **Favorite Quote:** _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-- I love exploring new technologies and sharing knowledge with the community!
+## 📫 Let’s Connect
+- 📧 Email: [paulolulana00@gmail.com](mailto:paulolulana00@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/oluwafemi-paul-3a7272265](https://www.linkedin.com/in/oluwafemi-paul-3a7272265/)  
+- 🌐 Portfolio: *Coming soon*
 
 ---
 
+## 🎉 Fun Facts
+- 🎮 I unwind with video games and love creating lifestyle & tech content  
+- ✈️ Traveling and fitness are my go-to resets  
+- 💬 Favorite quote: _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
+---
+
+> *Always building. Always learning. Always growing.* 🔁
